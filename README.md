@@ -1,7 +1,7 @@
-# Quiz App
+# Chatbot Application
 
 ## Descriptions:
-It is the Quiz Application created using flutter framework which contains questions related to different fields with amazing experience of Score levels and answers.
+It  is the chatbot application created with the help of Gemini API during the learning phase of REST API implementation with Getx.
 
 
 ### Packages Used:
@@ -11,11 +11,13 @@ It is the Quiz Application created using flutter framework which contains questi
  2 google_fonts:
  It is used to make your  "Text"  more attractive with different custom google fonts.
 
+ 3 http:
+ It is used to make network requests in API call. It offers HTTP methods like GET, POST ,PUT , DELETE.
 
 ### Getting Started:
-git clone https://github.com/pra-android/Quiz-App.git
+git clone https://github.com/pra-android/Chatbot-Application.git
 
-cd QuizApp
+cd Chatbot_Application
 
 flutter pub get
 
@@ -23,15 +25,17 @@ flutter run
 
 
 ### Screenshots:
-<div class="wato">
-<img src="https://github.com/pra-android/Quiz-App/assets/82046769/1039c69e-040e-4519-9dc8-aa2e5368336d.jpg" width="230" height="425">
-<img src="https://github.com/pra-android/Quiz-App/assets/82046769/175cf4f1-cb5d-43c1-b5ee-5db1d4f9e3ab.jpg" width="230" height="425">
-<img src="https://github.com/pra-android/Quiz-App/assets/82046769/5597c3a1-80e0-4e14-ab6f-11bc4563fdd4.jpg" width="230" height="425">
-</div>
 <div class="plato">
-<img src="https://github.com/pra-android/Quiz-App/assets/82046769/4fca4360-4941-4262-9a66-4b1579d032d4.jpg" width="240" height="430">
-<img src="https://github.com/pra-android/Quiz-App/assets/82046769/6bdf3635-61f6-4fc8-a05c-ac314acc179b.jpg" width="240" height="430">
+<img src="https://github.com/user-attachments/assets/9d9318d0-9fd6-45ce-9ab5-d975d5b54224" width="240" height="430">
+<img src="https://github.com/user-attachments/assets/b89f18fb-dff5-4d0e-9b63-8829f906892f" width="240" height="430">
+ <img src="https://github.com/user-attachments/assets/fd8aea19-059c-46cb-bd39-5b1c95788df9" width="240" height="430">
 </div>
+<div class="wato">
+<img src="https://github.com/user-attachments/assets/04afdaef-d0f6-43ae-b020-30b14c6dfcea" width="230" height="425">
+<img src="https://github.com/user-attachments/assets/8c849870-28da-4768-86b0-efa57ba67661" width="230" height="425">
+<img src="https://github.com/user-attachments/assets/d03b32c7-2fd5-4aa3-ae3b-49c8f5f270b4" width="230" height="425">
+</div>
+
 
 
 
